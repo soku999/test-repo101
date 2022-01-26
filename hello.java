@@ -1,1 +1,2 @@
-hi ashok how are you
+ hi ashok how are you
+  you are Bidchat right
