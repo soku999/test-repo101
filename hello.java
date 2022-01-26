@@ -1,1 +1,8 @@
-hi ashok how are you
+class hello 
+{
+	public static void main()
+	{
+		system.out.pritln("hello");
+	}
+}
+
