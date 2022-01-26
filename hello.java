@@ -1,8 +1,8 @@
-class hello 
+class hello      #from dev1
 {
-	public static void main()
+	public static void main()     #from dev1
 	{
-		system.out.pritln("hello");
+		system.out.pritln("hello from dev1");
 	}
 }
 
